@@ -128,7 +128,6 @@ public:
 
 			string heroName;
 			cout << "Enter your hero's name:";
-			cin.ignore();
 			getline(cin, heroName);
 
 
